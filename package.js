@@ -1,7 +1,7 @@
 Package.describe({
     summary: "Login service for Azure Active Directory",
     version: "1.0.0",
-    name: "oratekch:accounts-azure-active-directory",
+    name: "oratek:accounts-azure-active-directory",
     git: "https://github.com/oratekch/accounts-azure-active-directory"
 });
 
